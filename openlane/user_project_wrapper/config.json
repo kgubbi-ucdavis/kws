@@ -1,4 +1,4 @@
-{
+{   "PDK": "sky130A",
     "DESIGN_NAME": "user_project_wrapper",
     "VERILOG_FILES": [
         "dir::../../verilog/rtl/defines.v",
